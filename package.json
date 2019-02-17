@@ -1,0 +1,17 @@
+{
+  "name": "weathergrabnode",
+  "version": "1.0.0",
+  "description": "Using the OpenWeatherMap API at http://openweathermap.org/current, create a program that prompts for a city name and returns the current temperature for the city. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "city-suggest": "^0.1.7",
+    "readline-sync": "^1.4.9",
+    "request": "^2.88.0",
+    "yargs": "^13.2.0"
+  }
+}
